@@ -1,0 +1,77 @@
+{
+    "name": "Imagin",
+    "short_name": "Imagin",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": "https://imagin-app.netlify.app/",
+    "start_url": "https://imagin-app.netlify.app",
+    "description": "A simple-straightforward image posting app to help you get inspiration",
+    "screenshots": [
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/9268d8a7c92f774b52466f76bf63a81805867e8b-1918x904.png",
+            "sizes": "1918x904",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Imagin Home Screen"
+        },
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/f14851547da59e27af5cd45b2c11967f1bbfac8a-347x742.png",
+            "sizes": "347x742",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Imagin Home Screen (Mobile Phone)"
+        },
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/b3bbfaeb90b41a008702a4bd2e348f8cf85853fc-1918x904.png",
+            "sizes": "1918x904",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Imagin"
+        },
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/57c08bfbdb1315db5aee6da77ee145b37f35a6db-347x742.png",
+            "sizes": "347x742",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "User Profile (Mobile Phone)"
+        },
+       
+       
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/ed16fc9e34c15fdaa8b7cdb6f55d3bc06bbc7031-347x742.png",
+            "sizes": "347x742",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Posting (Desktop)"
+        },
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/7c8f427122a7e1dc45ed4b64dbf3501f00e7e948-347x742.png",
+            "sizes": "347x742",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Posting (Mobile Phone)"
+        },
+       
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/ea7ecefb1071534f746ee7f254d286329f11de74-1918x904.png",
+            "sizes": "1918x904",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Search (Desktop)"
+        }
+    ],
+    "icons": [
+        
+        
+        
+        {
+            "src": "https://cdn.sanity.io/images/ziomnka5/production/9e7b2c34a34491e6fc636367d5f8774775980fa8-1024x1024.png",
+            "type": "image/png",
+            "sizes": "1024x1024",
+            
+            "purpose": "any maskable"
+        }
+        
+    ]
+}

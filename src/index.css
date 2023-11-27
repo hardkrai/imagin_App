@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  transition: all ease-in-out 0.3s;
+}
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.hide-scrollbar ::-webkit-scrollbar{
+  display: none
+}
+
+.hide-scrollbar{
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+::-webkit-scrollbar{
+  display: none
+}
+@media screen and (min-width: 460px) and (max-width: 502px) {
+  .marginleftmiddle {
+    margin-left: 4rem;
+  }
+}
+
+
